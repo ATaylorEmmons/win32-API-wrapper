@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Luceat", "Luceat\Luceat.vcxproj", "{52359775-EBB1-4ED3-AB63-07965867B7F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52359775-EBB1-4ED3-AB63-07965867B7F9}.Debug|x64.ActiveCfg = Debug|x64
+		{52359775-EBB1-4ED3-AB63-07965867B7F9}.Debug|x64.Build.0 = Debug|x64
+		{52359775-EBB1-4ED3-AB63-07965867B7F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{52359775-EBB1-4ED3-AB63-07965867B7F9}.Debug|x86.Build.0 = Debug|Win32
+		{52359775-EBB1-4ED3-AB63-07965867B7F9}.Release|x64.ActiveCfg = Release|x64
+		{52359775-EBB1-4ED3-AB63-07965867B7F9}.Release|x64.Build.0 = Release|x64
+		{52359775-EBB1-4ED3-AB63-07965867B7F9}.Release|x86.ActiveCfg = Release|Win32
+		{52359775-EBB1-4ED3-AB63-07965867B7F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E984DA-4253-4BE5-9BAC-BEACA1F63904}
+	EndGlobalSection
+EndGlobal
